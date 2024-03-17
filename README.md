@@ -30,7 +30,7 @@ optional arguments:
 ```
 ### Samples Usage 
 ```commandline
-python app.py --data_dir "./data" --model_path = "./model/llama-2-7b-chat.Q2_K.gguf"
+python app.py --data_dir "./data" --model_path "./model/llama-2-7b-chat.Q2_K.gguf"
 ```
 
 ### Directory Tree
